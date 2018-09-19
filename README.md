@@ -3,7 +3,7 @@ About
 
 ![ERNIE Render](pictures/Picture1.png "3D render of E.R.N.I.E")
 
-A few years ago [EARS](http://surreyears.co.uk) were asked by the University of Surrey to create a project for an event called [Headstart](http://www.etrust.org.uk/headstart/courses). During this week long event a group of sixth form students who are considering studying engineering at university have around 5 hours of lab sessions to complete a project.
+A few years ago [EARS](https://twitter.com/surreyears?lang=en) were asked by the University of Surrey to create a project for an event called [Headstart](http://www.etrust.org.uk/headstart/courses). During this week long event a group of sixth form students who are considering studying engineering at university have around 5 hours of lab sessions to complete a project.
 
 E.R.N.I.E (EARS Robotic Navigator and Intrepid Explorer) was the project I came up with for the electronic engineering project. ERNIE is a very low cost line following robot that can be assembled and programmed by students with very little previous knowledge in electronics or programming.
 
@@ -13,9 +13,9 @@ Notes for schools and people making their own
 =============================================
 Assembly instructions for building an E.R.N.I.E can be found [here](doc/assembly instructions.pdf).
 While these are mostly complete they assume you have been given a ready made kit and don't include preparation details.
-Additional notes for schools can be found [here](SCHOOLS.md). 
+Additional notes for schools can be found [here](SCHOOLS.md).
 
-If you are an individual wanting to make an E.R.N.I.E for yourself please read through the [kit preparation](SCHOOLS.MD#kit-preparation) section on the schools page for details on the extra steps you will need to take. For individuals I can also offer free PCBs since I have quite a lot left over. All I ask is you cover the postage costs (won't be much because it can be sent as a small letter). Just drop me an email at sebastian.goscik@live.co.uk
+If you are an individual wanting to make an E.R.N.I.E for yourself please read through the [kit preparation](SCHOOLS.md#kit-preparation) section on the schools page for details on the extra steps you will need to take. For individuals I can also offer free PCBs since I have quite a lot left over. All I ask is you cover the postage costs (won't be much because it can be sent as a small letter). Just drop me an email at sebastian.goscik@live.co.uk
 
 Code examples
 =============
@@ -38,18 +38,16 @@ Files
  * __/src/PCB/XXX__ - Cadsoft EAGLE source file for a panellised version of the pcb and the one used in the pcb pdf
  * __/src/PCB/gerbers (elecrow).zip__ - The gerber files sent to [Elecrow](http://www.elecrow.com/) to produce the PCBs
  * __/src/BoM.xlsx - Microsoft Excel source for the bill of materials
- 
+
 To Do
 =====
 There are a few extra things I would like to add to this project in the future if time permits:
  * 3D printed shroud for the IR sensors to minimise cross talk
  * 3D printed servo -> HC-SR04 mount
  * Add soldering instructions
+ * add software setup instructions
 
-If you manage to implement any of the above or something I haven't even considered please let me know! 
-
- * Generate PDFs
- * add software setup
+If you manage to implement any of the above or something I haven't even considered please let me know!
 
 Credit
 ======
@@ -59,7 +57,7 @@ CAD models used:
  * [Arduino by Andrew Whitham](https://grabcad.com/library/arduino-uno-r3-1)
  * [Motor Shield by mandrillon](https://grabcad.com/library/adafruit-motor-shield-v2-1)
  * [Battery Holder by Georgina Koffler](https://grabcad.com/library/6-aa-battery-pack)
- * [AA Battery by Cody Thurston](https://grabcad.com/library/energizer-aa-battery) 
+ * [AA Battery by Cody Thurston](https://grabcad.com/library/energizer-aa-battery)
 
 License
 =======
